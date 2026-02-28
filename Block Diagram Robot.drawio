@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15" version="29.6.0">
+  <diagram name="Page-1" id="uPZjM1At_b0Vhx4-eCvh">
+    <mxGraphModel dx="407" dy="267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6OrcBJs-gBar750Ye1zY-10" edge="1" parent="1" source="6OrcBJs-gBar750Ye1zY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6OrcBJs-gBar750Ye1zY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OrcBJs-gBar750Ye1zY-11" edge="1" parent="1" source="6OrcBJs-gBar750Ye1zY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6OrcBJs-gBar750Ye1zY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OrcBJs-gBar750Ye1zY-12" edge="1" parent="1" source="6OrcBJs-gBar750Ye1zY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6OrcBJs-gBar750Ye1zY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OrcBJs-gBar750Ye1zY-13" edge="1" parent="1" source="6OrcBJs-gBar750Ye1zY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6OrcBJs-gBar750Ye1zY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OrcBJs-gBar750Ye1zY-18" edge="1" parent="1" source="6OrcBJs-gBar750Ye1zY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="6OrcBJs-gBar750Ye1zY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OrcBJs-gBar750Ye1zY-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Raspberry Pi" vertex="1">
+          <mxGeometry height="40" width="120" x="240" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6OrcBJs-gBar750Ye1zY-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Motor 1" vertex="1">
+          <mxGeometry height="40" width="60" x="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6OrcBJs-gBar750Ye1zY-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Motor 2" vertex="1">
+          <mxGeometry height="40" width="60" x="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6OrcBJs-gBar750Ye1zY-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Motor 3" vertex="1">
+          <mxGeometry height="40" width="60" x="320" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6OrcBJs-gBar750Ye1zY-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Motor 4" vertex="1">
+          <mxGeometry height="40" width="60" x="420" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6OrcBJs-gBar750Ye1zY-9" edge="1" parent="1" source="6OrcBJs-gBar750Ye1zY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="6OrcBJs-gBar750Ye1zY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OrcBJs-gBar750Ye1zY-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Camera" vertex="1">
+          <mxGeometry height="40" width="80" x="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="6OrcBJs-gBar750Ye1zY-15" edge="1" parent="1" source="6OrcBJs-gBar750Ye1zY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="6OrcBJs-gBar750Ye1zY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6OrcBJs-gBar750Ye1zY-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pesticide Level Indicator" vertex="1">
+          <mxGeometry height="40" width="80" x="400" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="6OrcBJs-gBar750Ye1zY-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pesticide Pump" vertex="1">
+          <mxGeometry height="40" width="60" x="270" y="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
